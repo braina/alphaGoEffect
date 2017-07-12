@@ -1,5 +1,5 @@
 # alphaGoEffect
 
-[this](http://braina.github.io/alhaGoEffect/)
+[this](http://braina.github.io/alphaGoEffect/)
 
 w.i.p.
